@@ -1,2 +1,2 @@
 # React-Happy
-Happy Meal site in react
+Happy Meal website in react
